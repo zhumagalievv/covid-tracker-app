@@ -1,5 +1,5 @@
 # covid-tracker
-
+![myimage-alt-tag](./src/assets/covidTrackerImg.jpeg)
 ## Project setup
 ```
 npm install
